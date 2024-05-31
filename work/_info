@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/HUST/Nam3/Kyf2/FPGA/simulation
+vRISC_V_TB
+Z0 !s110 1717171130
+!i10b 1
+!s100 <32PbmY5A1TC]5RUccT5M1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IY;83XLFMhjOBzIS2mL@T00
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/HUST/Nam3/Kyf2/RISC_V
+w1717171116
+8D:\HUST\Nam3\Kyf2\RISC_V\RISC_V_TB.v
+FD:\HUST\Nam3\Kyf2\RISC_V\RISC_V_TB.v
+!i122 21
+L0 2 42
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1717171130.000000
+!s107 D:\HUST\Nam3\Kyf2\RISC_V\RISC_V_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\HUST\Nam3\Kyf2\RISC_V\RISC_V_TB.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@r@i@s@c_@v_@t@b
+vRISCV_TOP
+R0
+!i10b 1
+!s100 GFc?35jEBhMZTL1eE;;601
+R1
+ILV;_c;jXA^jaa@LM3Df0:1
+R2
+R3
+w1717167642
+8D:/HUST/Nam3/Kyf2/RISC_V/RISCV_TOP.v
+FD:/HUST/Nam3/Kyf2/RISC_V/RISCV_TOP.v
+!i122 22
+L0 1 73
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/HUST/Nam3/Kyf2/RISC_V/RISCV_TOP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/HUST/Nam3/Kyf2/RISC_V/RISCV_TOP.v|
+!i113 1
+R6
+R7
+n@r@i@s@c@v_@t@o@p

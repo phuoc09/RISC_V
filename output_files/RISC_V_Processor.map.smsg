@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at RISCV_TOP.v(46): always construct contains both blocking and non-blocking assignments File: D:/HUST/Nam3/Kyf2/RISC_V/RISCV_TOP.v Line: 46

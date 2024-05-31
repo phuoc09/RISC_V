@@ -1,0 +1,5 @@
+|RISCV_TOP
+clk => ~NO_FANOUT~
+rst_n => ~NO_FANOUT~
+
+

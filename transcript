@@ -1,0 +1,175 @@
+vsim work.RISC_V_TB
+# vsim work.RISC_V_TB 
+# Start time: 22:06:34 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 2, found 1.
+#    Time: 0 ps  Iteration: 0  Instance: /RISC_V_TB/uut File: D:/HUST/Nam3/Kyf2/RISC_V/RISC_V_TB.v Line: 6
+# ** Warning: (vsim-3722) D:/HUST/Nam3/Kyf2/RISC_V/RISC_V_TB.v(6): [TFMPC] - Missing connection for port 'rst_n'.
+run -all
+# Test Failed: ADD instruction
+# ** Note: $finish    : D:/HUST/Nam3/Kyf2/RISC_V/RISC_V_TB.v(42)
+#    Time: 20 ps  Iteration: 0  Instance: /RISC_V_TB
+# 1
+# Break in Module RISC_V_TB at D:/HUST/Nam3/Kyf2/RISC_V/RISC_V_TB.v line 42
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.RISC_V_TB
+# End time: 22:07:38 on May 31,2024, Elapsed time: 0:01:04
+# Errors: 0, Warnings: 4
+# vsim work.RISC_V_TB 
+# Start time: 22:07:38 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 2, found 1.
+#    Time: 0 ps  Iteration: 0  Instance: /RISC_V_TB/uut File: D:/HUST/Nam3/Kyf2/RISC_V/RISC_V_TB.v Line: 6
+# ** Warning: (vsim-3722) D:/HUST/Nam3/Kyf2/RISC_V/RISC_V_TB.v(6): [TFMPC] - Missing connection for port 'rst_n'.
+run -all
+# Test Failed: ADD instruction
+# Break key hit
+# Simulation stop requested.
+# Break key hit
+run -all
+vsim work.RISC_V_TB
+# End time: 22:08:06 on May 31,2024, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 3
+# vsim work.RISC_V_TB 
+# Start time: 22:08:06 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 2, found 1.
+#    Time: 0 ps  Iteration: 0  Instance: /RISC_V_TB/uut File: D:/HUST/Nam3/Kyf2/RISC_V/RISC_V_TB.v Line: 6
+# ** Warning: (vsim-3722) D:/HUST/Nam3/Kyf2/RISC_V/RISC_V_TB.v(6): [TFMPC] - Missing connection for port 'rst_n'.
+add wave -position insertpoint sim:/RISC_V_TB/*
+run -all
+# Test Failed: ADD instruction
+run -all
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.RISC_V_TB
+# End time: 22:11:17 on May 31,2024, Elapsed time: 0:03:11
+# Errors: 0, Warnings: 4
+# vsim work.RISC_V_TB 
+# Start time: 22:11:17 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.RISC_V_TB
+# End time: 22:11:32 on May 31,2024, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 2
+# vsim work.RISC_V_TB 
+# Start time: 22:11:32 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+run -all
+# Test Passed: ADD instruction
+# Compile of RISC_V_TB.v failed with 1 errors.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 1 failed with 1 error.
+vsim work.RISC_V_TB
+# End time: 22:44:06 on May 31,2024, Elapsed time: 0:32:34
+# Errors: 0, Warnings: 2
+# vsim work.RISC_V_TB 
+# Start time: 22:44:06 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+run -all
+# Test Passed: ADD instruction
+# Compile of RISC_V_TB.v failed with 1 errors.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of RISC_V_TB.v failed with 1 errors.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.RISC_V_TB
+# End time: 22:46:04 on May 31,2024, Elapsed time: 0:01:58
+# Errors: 0, Warnings: 4
+# vsim work.RISC_V_TB 
+# Start time: 22:46:04 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.RISC_V_TB
+# End time: 22:46:34 on May 31,2024, Elapsed time: 0:00:30
+# Errors: 0, Warnings: 2
+# vsim work.RISC_V_TB 
+# Start time: 22:46:34 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+add wave -position insertpoint sim:/RISC_V_TB/*
+run -all
+# Test Failed: ADD instruction
+add wave -position insertpoint sim:/RISC_V_TB/uut/*
+run -all
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.RISC_V_TB
+# End time: 22:53:35 on May 31,2024, Elapsed time: 0:07:01
+# Errors: 0, Warnings: 2
+# vsim work.RISC_V_TB 
+# Start time: 22:53:35 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+add wave -position insertpoint sim:/RISC_V_TB/*
+add wave -position insertpoint sim:/RISC_V_TB/uut/*
+run -all
+# Test Failed: ADD instruction
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.RISC_V_TB
+# End time: 22:56:27 on May 31,2024, Elapsed time: 0:02:52
+# Errors: 0, Warnings: 2
+# vsim work.RISC_V_TB 
+# Start time: 22:56:27 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+add wave -position insertpoint sim:/RISC_V_TB/uut/*
+run -all
+# Test Failed: ADD instruction
+# Compile of RISC_V_TB.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.RISC_V_TB
+# End time: 22:58:59 on May 31,2024, Elapsed time: 0:02:32
+# Errors: 0, Warnings: 3
+# vsim work.RISC_V_TB 
+# Start time: 22:58:59 on May 31,2024
+# Loading work.RISC_V_TB
+# Loading work.RISCV_TOP
+add wave -position insertpoint sim:/RISC_V_TB/uut/*
+run -all
+# Test Passed: ADD instruction
